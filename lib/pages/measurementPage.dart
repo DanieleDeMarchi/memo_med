@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../entity/measurementEntity.dart'
+import '../entity/measurementEntity.dart';
 
 class MeasurementPage extends StatefulWidget {
   @override

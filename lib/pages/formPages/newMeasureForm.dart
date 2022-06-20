@@ -1,4 +1,4 @@
-class NewMeasureFormPage extends StatelessWidget {
+class NewMeasureForm extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SafeArea(

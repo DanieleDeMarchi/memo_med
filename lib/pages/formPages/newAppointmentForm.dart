@@ -1,4 +1,4 @@
-class NewAppointmentFormPage extends StatelessWidget {
+class NewAppointmentForm extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
